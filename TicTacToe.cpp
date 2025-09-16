@@ -139,7 +139,7 @@ public:
             cout << c << flush;
             customSleep(delay_ms);
         }
-        cout << RESET; // Ensure color reset after messageeee
+        cout << RESET; // Ensure color reset after messageeeeeeeeeeeee
     }
     
     void printHeader() {
