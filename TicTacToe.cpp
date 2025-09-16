@@ -145,7 +145,7 @@ public:
     void printHeader() {
         clearScreen();
         cout << BOLD << BG_BLUE << WHITE << "============================================================\n";
-        cout << "             BERN'S TIC TAC TOE GAMES                  \n";
+        cout << "             BERN'S TIC TAC TOE PROJECT                  \n";
         cout << "              " << YELLOW << "Created by: Group Bern" << WHITE << "                 \n";
         cout << "============================================================" << RESET << "\n\n";
     }
