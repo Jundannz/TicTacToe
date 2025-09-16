@@ -1,4 +1,4 @@
-    #include <iostream>
+#include <iostream>
 #include <ctime>
 #include <cstdlib>
 #include <string>
@@ -139,7 +139,7 @@ public:
             cout << c << flush;
             customSleep(delay_ms);
         }
-        cout << RESET; // Ensure color reset after message
+        cout << RESET; // Ensure color reset after messageeeeeeeeeeeee
     }
     
     void printHeader() {
